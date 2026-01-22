@@ -1,0 +1,83 @@
+.africa{
+  background-color: aquamarine;
+  width: 800px;
+  height: 50px;
+  margin: auto;
+  margin-bottom: 15px;
+  padding-top: 15px;
+}
+.home{
+    background-color: lightpink;
+    height: 50px;
+    font-size: xx-large;
+    font-style: italic;
+    color: azure;
+    margin-left: 100px;
+}
+.about{
+    background-color: aliceblue;
+    height: 50px;
+    font-size: xx-large;
+    font-style: italic;
+    color: aliceblue;
+    margin-left: 15px;
+}
+.contact{
+    background-color: chartreuse;
+    height: 50px;
+    font-size: xx-large;
+    font-style: italic;
+    color: black;
+    margin-left: 15px;
+}
+.uganda{
+    background-color: aquamarine;
+    height: 300px;
+    width:800px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.Ghana{
+    background-color: aquamarine;
+    height: 80px;
+    width: 780px;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.sudan{
+    background-color: aquamarine;
+    height:  300px; 
+    width: 800px;
+    margin: auto;
+    margin-bottom: 15px;
+    text-align: center;
+    padding-top: 50px;
+}
+.china{
+    background-color: lightgray;
+    height: 200px;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 15px;
+    margin-left: 220px;
+}
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    }
+.submit{
+    height: 30px;
+    width: 50px;
+    margin-left: 45%;
+    margin-top: 5px;
+}
+textarea{
+    height: 100px;
+    width: 200px;
+}
+.love{
+    height: 50px;
+    width: 60px;
+}
